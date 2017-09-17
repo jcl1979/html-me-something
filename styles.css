@@ -1,0 +1,51 @@
+#title {
+    text-align: center;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+#image {
+    margin-left: 280px;
+    margin-right: 200px;
+}
+#small_image {
+    margin-left: 425px;
+    margin-right: 100px;
+}
+#map {
+    margin-left: 175px;
+    margin-right: 200px;    
+}
+.header {
+    font-family: Impact;
+    font-size: 300%;
+    text-align: center;
+
+}
+.center {
+    font-family: Impact;
+    font-size: 200%;
+    text-align: center;
+    margin: 10px;
+    padding: 25px;
+    
+}
+body {
+    background-image: url(https://www.georgeglazer.com/archives/maps/archive-western/images/detroitlitho.jpg);
+}
+
+article > p {
+    font-family: 'Georgia';
+    font-size: 125%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 200px;
+    margin-left: 200px;
+    padding: 40px;
+    background-color: rgb(165, 173, 182);
+}
+header > p {
+    text-align: center;
+    font-family: Georgia;
+    font-size: 150%;
+}
+
